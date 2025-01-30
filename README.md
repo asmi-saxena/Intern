@@ -28,4 +28,8 @@ WorkforceSync is a comprehensive employee management system designed to streamli
 - React (for interactive components)
 - Tailwind CSS
 
+  
+- ![image](https://github.com/user-attachments/assets/69dcff7a-5652-4475-9bed-3caa970daf64)
+
+
 Developed with ❤️ by ASMI
